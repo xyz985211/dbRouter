@@ -1,0 +1,12 @@
+com\kou\middleware\db\router\config\DataSourceAutoConfig.class
+com\kou\middleware\db\router\DBRouterBase.class
+com\kou\middleware\db\router\strategy\IDBRouterStrategy.class
+com\kou\middleware\db\router\strategy\impl\DBRouterStrategyHashCode.class
+com\kou\middleware\db\router\annotation\DBRouter.class
+com\kou\middleware\db\router\DBRouterConfig.class
+com\kou\middleware\db\router\annotation\DBRouterStrategy.class
+com\kou\middleware\db\router\dynamic\DynamicDataSource.class
+com\kou\middleware\db\router\dynamic\DynamicMybatisPlugin.class
+com\kou\middleware\db\router\util\PropertyUtil.class
+com\kou\middleware\db\router\DBContextHolder.class
+com\kou\middleware\db\router\DBRouterJoinPoint.class
